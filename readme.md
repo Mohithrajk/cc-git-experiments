@@ -7,3 +7,5 @@ We will explore git commands and document them.
 Initialize the git repository in the folder where it is executed.
 
 ok but why
+
+# is used for making headings.
